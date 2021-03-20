@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-![logo](https://github.com/MrGokturk/bitcoin-nedir/blob/main/images/logo.png)  <br/>
+![logo](https://github.com/MrGokturk/bitcoin-nedir/blob/Hub/images/logo.png)  <br/>
 
 <br/>
 <br/>
@@ -22,7 +22,7 @@ Bitcoin tamamen açık kaynaklıdır. Kodlara [burdan](https://github.com/bitcoi
 
 <br/>
 
-<img align="left" width="300" height="250" src="https://github.com/MrGokturk/bitcoin-nedir/blob/main/images/new-user.png"> <br/>
+<img align="left" width="300" height="250" src="https://github.com/MrGokturk/bitcoin-nedir/blob/Hub/images/new-user.png"> <br/>
 
 <br/>
 
@@ -32,7 +32,7 @@ Bitcoin, blok zinciri (Blockchain) ile çalışır. Blok zinciri herkese açıkt
  <br/>
  <br/>
 
-<img align="right" width="300" height="250" src="https://github.com/MrGokturk/bitcoin-nedir/blob/main/images/blockchain.png"> <br/>
+<img align="right" width="300" height="250" src="https://github.com/MrGokturk/bitcoin-nedir/blob/Hub/images/blockchain.png"> <br/>
 
  <br/>
  <br/>
@@ -42,7 +42,7 @@ Bitcoin, blok zinciri (Blockchain) ile çalışır. Blok zinciri herkese açıkt
  <br/>
  <br/>
 
-<img align="left" width="350" height="250" src="https://github.com/MrGokturk/bitcoin-nedir/blob/main/images/private-keys.png"> <br/>
+<img align="left" width="350" height="250" src="https://github.com/MrGokturk/bitcoin-nedir/blob/Hub/images/private-keys.png"> <br/>
 
  <br/>
  <br/>
@@ -63,7 +63,7 @@ Bitcoin, işlemler tamamlandıktan sonra başka kullanıcıların işlemi deği�
  <br/>
  <br/>
 
-<img align="right" width="350" height="250" src="https://github.com/MrGokturk/bitcoin-nedir/blob/main/images/mining.png"> 
+<img align="right" width="350" height="250" src="https://github.com/MrGokturk/bitcoin-nedir/blob/Hub/images/mining.png"> 
 
 <br/>
 <br/>
